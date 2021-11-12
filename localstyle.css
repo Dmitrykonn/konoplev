@@ -1,0 +1,32 @@
+.img-wrap {
+  position: relative;
+}
+
+.img-wrap h1 {
+  position: absolute;
+  font-family: Arial;
+  font-size: 150%;
+  color: white;
+  left: 60;
+  bottom: 100;
+  width: 100%;
+}
+
+.img-wrap h2 {
+  position: absolute;
+  font-family: Arial;
+  color: black;
+  left: 150;
+  bottom: 60;
+  width: 100%;
+}
+
+.img-wrap h3 {
+  position: absolute;
+  font-family: Arial;
+  font-size: 150%;
+  color: white;
+  left: 100;
+  bottom:0;
+  width: 100%;
+}
